@@ -1,4 +1,4 @@
-# Pixora AI
+# ImageCraft AI
 
 A modern AI-powered image editing platform built with Next.js, Tailwind CSS, and Framer Motion.
 
@@ -22,7 +22,7 @@ A modern AI-powered image editing platform built with Next.js, Tailwind CSS, and
    Create a `.env.local` file with:
    ```env
    # Database
-   DATABASE_URL="mongodb://localhost:27017/pixora"
+   DATABASE_URL="mongodb://localhost:27017/imagecraft"
    
    # NextAuth
    NEXTAUTH_URL="http://localhost:3000"

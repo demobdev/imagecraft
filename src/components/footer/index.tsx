@@ -20,8 +20,11 @@ const Footer = () => {
           {/* Logo */}
           <div className="flex items-center justify-center space-x-2 mb-6">
             <div className="relative">
-              <Sparkles className="h-8 w-8 text-primary animate-glow-pulse" />
-              <div className="absolute inset-0 h-8 w-8 text-secondary animate-glow-pulse opacity-50" />
+              <img
+                src="/image-craft-icon-tp.jpg"
+                alt="ImageCraft AI"
+                className="h-8 w-8 rounded-md"
+              />
             </div>
             <span className="text-2xl font-bold bg-gradient-primary !bg-clip-text text-transparent">
               ImageCraft AI

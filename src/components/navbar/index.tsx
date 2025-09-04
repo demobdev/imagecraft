@@ -53,11 +53,11 @@ const Navbar = () => {
             onClick={() => scrollToSection("hero")}
           >
             <div className="relative">
-              <Sparkles
-                fill="transparent"
-                className="h-8 w-8 text-primary animate-glow-pulse"
+              <img
+                src="/image-craft-icon-tp.jpg"
+                alt="ImageCraft AI"
+                className="h-8 w-8 rounded-md"
               />
-              <div className="absolute inset-0 h-8 w-8 text-secondary animate-glow-pulse opacity-50" />
             </div>
             <span className="text-2xl font-bold bg-gradient-primary !bg-clip-text text-transparent">
               ImageCraft AI

@@ -15,7 +15,7 @@
 
 1. Go to **Products** in your Stripe Dashboard
 2. Click **Add product**
-3. Set the product name (e.g., "Pixora Pro")
+3. Set the product name (e.g., "ImageCraft Pro")
 4. Set the price to **$19/month**
 5. Choose **Recurring price**
 6. Copy the **Price ID** (starts with `price_`)

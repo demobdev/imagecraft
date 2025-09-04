@@ -9,7 +9,7 @@ const plans = [
     name: "Free",
     price: "$0",
     period: "forever",
-    description: "Perfect for trying out Pixora AI",
+    description: "Perfect for trying out ImageCraft AI",
     features: [
       "3 edits on free plan",
       "Basic AI background removal",

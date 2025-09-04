@@ -24,7 +24,7 @@ const Footer = () => {
               <div className="absolute inset-0 h-8 w-8 text-secondary animate-glow-pulse opacity-50" />
             </div>
             <span className="text-2xl font-bold bg-gradient-primary !bg-clip-text text-transparent">
-              Pixora AI
+              ImageCraft AI
             </span>
           </div>
 
@@ -45,7 +45,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="mt-8 pt-8 border-t border-card-border text-center">
             <p className="text-sm text-muted-foreground text-center">
-              © 2025 Pixora AI. All rights reserved.
+              © 2025 ImageCraft AI. All rights reserved.
             </p>
           </div>
         </motion.div>

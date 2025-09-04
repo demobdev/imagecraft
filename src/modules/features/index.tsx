@@ -123,7 +123,7 @@ function FeatureCard({ feature, index }: { feature: any; index: number }) {
         <div className="mt-6 pt-6 border-t border-card-border">
           <div className="flex items-center space-x-2 text-sm text-primary">
             <div className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-            <span className="font-medium">Pixora AI Powered</span>
+            <span className="font-medium">ImageCraft AI Powered</span>
           </div>
         </div>
       </div>

@@ -53,7 +53,7 @@ const Hero = () => {
             className="text-5xl lg:text-7xl font-bold leading-tight mb-6"
           >
             <span className="bg-gradient-primary !bg-clip-text text-transparent">
-              Pixora AI
+              ImageCraft AI
             </span>
             <br />
             <span className="text-foreground">The Magic Photo Editor</span>

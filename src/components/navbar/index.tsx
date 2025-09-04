@@ -56,7 +56,7 @@ const Navbar = () => {
               <img
                 src="/image-craft-icon-tp.jpg"
                 alt="ImageCraft AI"
-                className="h-8 w-8 rounded-md"
+                className="h-12 w-12 rounded-xl"
               />
             </div>
             <span className="text-2xl font-bold bg-gradient-primary !bg-clip-text text-transparent">
